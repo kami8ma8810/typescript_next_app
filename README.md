@@ -1,0 +1,2 @@
+# typescript_next_app
+TypeScriptとReact/Next.jsでつくる実践Webアプリケーション開発
